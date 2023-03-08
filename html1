@@ -1,0 +1,26 @@
+<html>
+   <head>
+<title>NAME</title>
+ <body bgcolor="yellow">
+
+   <h1>Student name</h1>
+     <p>
+student test1<br>
+student test2<br>
+student test3
+     </p>
+<hr>
+<h2>name1</h2>
+<p>
+student test1<br>
+student test2
+</p>
+<hr>
+<h3>name2</h3>
+<p>
+student test1
+</p>
+
+ </body>
+   </head>
+</html>
