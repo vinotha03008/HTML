@@ -1,0 +1,18 @@
+.container{
+   background-color: blueviolet;
+   min-height: 500px;
+}
+.para{
+   background-color: aqua;
+   width: 50%;
+}
+img{
+   float: right;
+   height: 200px;
+}
+.img{
+   margin-left: 600px;
+}
+p{
+   text-align: justify;
+}
