@@ -1,0 +1,27 @@
+.web{
+    color:rgb(226, 106, 226);
+    font-weight: bolder;
+    font-style: italic;
+    background-color: aqua;
+    text-decoration: double;
+    text-decoration-line: underline;
+}
+
+*{
+ background-image: "https://learningpath.org/cimages/multimages/51/graphic_design.jpg";
+}
+
+#para{
+    text-indent: 30px;
+    text-align: justify;
+    color: hotpink;
+    background-color: greenyellow;
+    word-spacing: 3px;
+}
+.frond{
+    font-variant: small-caps;
+
+}
+.many{
+letter-spacing: 5px;
+}
